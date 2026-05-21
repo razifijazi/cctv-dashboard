@@ -6,9 +6,3 @@ logs/
 deploy_key
 deploy_key.pub
 lofi.mp4
-music/*.mp3
-music/*.wav
-music/*.flac
-music/*.ogg
-music/*.m4a
-music/*.aac
